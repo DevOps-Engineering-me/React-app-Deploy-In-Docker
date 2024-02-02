@@ -82,5 +82,6 @@ You can now view my-app in the browser.
 
 Running On Docker:
 
-![Screenshot from 2024-02-02 16-42-59](https://github.com/DevOps-With-Poridhi-io/Deploy-React-App-In-Docker/assets/68004638/5d4b5942-7233-4efc-8c06-b99e87172780)
+![Screenshot from 2024-02-02 16-42-59](https://github.com/DevOps-Engineering-me/React-app-Deploy-In-Docker/assets/68004638/c19c9ea7-d962-4a1e-802f-0ce36c38e933)
+
 
